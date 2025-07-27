@@ -21,7 +21,7 @@ const Home3 = () => {
         <div>
             <HeroBanner3></HeroBanner3>
 
-            {/* <Marquee2></Marquee2> */}
+            <Marquee2></Marquee2>
 
 
             <WhatWeDo></WhatWeDo>
