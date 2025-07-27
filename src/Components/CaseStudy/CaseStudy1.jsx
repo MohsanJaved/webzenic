@@ -107,7 +107,7 @@ const CaseStudy1 = () => {
                                         <Link to="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
                                 </div>
-
+{/* 
                                 <div className="box bg-2 active wow fadeInUp wow" data-wow-delay=".4s">
                                     <div className="title-items">
                                         <h3><Link to="/project/project-details">Web & Mobile</Link></h3>
@@ -122,7 +122,7 @@ const CaseStudy1 = () => {
                                         </p>
                                         <Link to="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
-                                </div>
+                                </div> */}
 
                                 <div className="box bg-3 wow fadeInUp wow" data-wow-delay=".6s">
                                     <div className="title-items">
