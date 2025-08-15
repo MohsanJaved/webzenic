@@ -5,14 +5,14 @@ const WhatWeDo = () => {
 
     const heading = { 
         subtitle:"WHY services uS",
-        title:'Use SEO to Drive Growth <br> at Your Business',
-        content:'Pellentesque ut vehicula sapien <br> dictumst. Maecenas ante.',  
+        title:'Your growth is our mission ',
+        content:'let’s build your digital success together',  
       }
 
     const whyContent = [
-        {img:'/assets/img/service/icon-1.png', title:'Digital Marketing', content:'Lorem dolor amet consectetur read adipiscing any more elit.'},
-        {img:'/assets/img/service/icon-2.png', title:'SEO Analytics', content:'Lorem dolor amet consectetur read adipiscing any more elit.'},
-        {img:'/assets/img/service/icon-3.png', title:'Social Marketing', content:'Lorem dolor amet consectetur read adipiscing any more elit.'},
+        {img:'/assets/img/service/icon-1.png', title:'web development ', content:'Powerful web solutions combining creativity with technical expertise.'},
+        {img:'/assets/img/service/icon-2.png', title:'SEO Analytics', content:'Increase rankings and traffic with proven SEO strategies.'},
+        {img:'/assets/img/service/icon-3.png', title:'Social Media Marketing', content:'Build brand awareness and trust on leading platforms.'},
       ];  
 
     return (

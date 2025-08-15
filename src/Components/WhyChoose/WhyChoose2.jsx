@@ -7,12 +7,12 @@ const WhyChoose2 = () => {
     const chooseContent = {  
         subtitle:"OUR EXPERT TEAM",
         title:'Let’s make something awesome together',
-        content:'Every pleasure is to be welcomed and every pain avoided. certain circumstances and owing to the claims welcomed and every pain avoided certain circumstances',  
+        content:'Together, we’ll craft digital solutions that inspire, engage, and deliver results.From your vision to our execution, success is built every step of the way.',  
         img:'/assets/img/team/02.png',         
-        list1:'30-day money back guarantee', 
-        list2:'Web site Marketing Solutions', 
-        list3:'Unlimited Application', 
-        list4:'24/7 system Monitoring', 
+        list1:'30-day money-back guarantee', 
+        list2:'Unlimited revision', 
+        list3:'Free consultation', 
+        list4:'24/7 Support', 
       } 
 
           useEffect(() => {
