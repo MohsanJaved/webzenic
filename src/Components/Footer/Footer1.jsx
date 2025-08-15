@@ -37,7 +37,7 @@ const Footer1 = () => {
                             <div className="single-footer-widget">
                                 <div className="widget-head">
                                     <a href="index.html">
-                                        <img src="/assets/img/logo/white-logo.svg" alt="img" />
+                                        <img className='h-logo' src="/assets/img/logo/white-logo.png" alt="img" />
                                     </a>
                                 </div>
                                 <div className="footer-content">
@@ -179,7 +179,7 @@ const Footer1 = () => {
                 <div className="container">
                     <div className="footer-wrapper d-flex align-items-center justify-content-between">
                         <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                            © All Copyright 2024 by Digtek
+                            © All Copyright 2025 by Webzenic
                         </p>
                         <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
                             <li>
