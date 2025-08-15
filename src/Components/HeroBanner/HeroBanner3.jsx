@@ -11,9 +11,9 @@ const HeroBanner3 = () => {
 
         const heroContent = {
             bg:'/assets/img/hero/hero-bg-3.jpg',  
-            subtitle:"go for advertising",
-            title:' Achieve <span>Top Search </span> Rankings With Our <br/> SEO services',
-            content:'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or  randomised',
+            subtitle:"Grow Your Business Online with Webzenic",
+            title:' All-in-One  <span>Digital Marketing & Web Design &Developer </span>Your  Partner <br/>in the UK',
+            content:'From search engine domination to stunning WordPress websites, Webzenic helps UK businesses achieve measurable online success.',
             img:'/assets/img/hero/hero-image-3.png',     
             btnname:'EXPLORE MORE',             
             btnurl:'/about',             

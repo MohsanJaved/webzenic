@@ -49,7 +49,7 @@ const HeroBanner2 = () => {
 
           const heroContent = {
             bg:'/assets/img/hero/hero-bg-2.png',  
-            subtitle:"go for advertising",
+            subtitle:"Grow Your Business Online with Webzenic",
             title:' Innovative Solutions for a Digital World.',
             content:'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or  randomised',
             img:'/assets/img/hero/hero-image-2.png',    
