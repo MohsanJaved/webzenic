@@ -13,7 +13,9 @@
   --bg: #F6F3FE;
   --box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.06);
 }
-
+.h-logo{
+width: 102px !important;
+}
 .main-button {
   position: relative;
   display: flex;
