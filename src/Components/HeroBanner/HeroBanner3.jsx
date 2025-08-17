@@ -10,9 +10,9 @@ const HeroBanner3 = () => {
         }, []);
 
         const heroContent = {
-            bg:'/assets/img/hero/hero-bg-3.jpg',  
+            bg:'/assets/img/hero/hero-bg-3.png',  
             subtitle:"Grow Your Business Online with Webzenic",
-            title:' All-in-One  <span>Digital Marketing & Web Design &Developer </span>Your  Partner <br/>in the UK',
+            title:'Your All-in-One Partner for <span>Digital Marketing & Web Design </span>in the UK',
             content:'From search engine domination to stunning WordPress websites, Webzenic helps UK businesses achieve measurable online success.',
             img:'/assets/img/hero/hero-image-3.png',     
             btnname:'EXPLORE MORE',             
@@ -26,7 +26,7 @@ const HeroBanner3 = () => {
             </div>
             <div className="container-fluid">
                 <div className="row g-4 justify-content-between align-items-center">
-                    <div className="col-lg-6">
+                    <div className="col-lg-7">
                         <div className="hero-content">
                             <h6 className="wow fadeInUp">{heroContent.subtitle}</h6>
                             <h1 className="wow fadeInUp" data-wow-delay=".3s">
