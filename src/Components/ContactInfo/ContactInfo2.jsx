@@ -13,7 +13,7 @@ const ContactInfo2 = () => {
                                 <div className="content">
                                     <h3>Our Address</h3>
                                     <p>
-                                        lahore <br />
+                                        lahore <br />54000
                                     </p>
                                 </div>
                             </div>
@@ -26,8 +26,7 @@ const ContactInfo2 = () => {
                                 <div className="content">
                                     <h3><a href="mailto:info@example.com">infowebzenic@gmail.com</a></h3>
                                     <p>
-                                        Email us anytime for anykind <br />
-                                        ofquety.
+                                      Email us anytime for any kind <br></br>of query.
                                     </p>
                                 </div>
                             </div>
@@ -57,8 +56,14 @@ const ContactInfo2 = () => {
                             <div className="col-lg-6">
                                 <div className="map-items">
                                     <div className="googpemap">
-                                        <iframe src="https://www.google.com/mapsA0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd" loading="lazy"></iframe>
+                                        <iframe
+                                            src="https://www.google.com/maps?q=DHA%20Phase%203%2C%20Lahore%2C%20Punjab%2C%20Pakistan&output=embed"
+                                            loading="lazy"
+                                            width="600"
+                                            height="450"
+                                        ></iframe>
                                     </div>
+
                                 </div>
                             </div>
                             <div className="col-lg-6">

@@ -2,10 +2,10 @@
 const Value1 = () => {
 
     const chooseContent = [
-        {iconclass:'bi bi-people', title:'Integrity', content:'Collaboratively formulate principle capital. Progressively evolve user revolutionary hosting services.'},
-        {iconclass:'bi bi-pie-chart', title:'Simplicity', content:'Collaboratively formulate principle capital. Progressively evolve user revolutionary hosting services.'},
-        {iconclass:'bi bi-cloudy', title:'Performance', content:'Collaboratively formulate principle capital. Progressively evolve user revolutionary hosting services.'},
-        {iconclass:'bi bi-check-circle', title:'Integrity', content:'Collaboratively formulate principle capital. Progressively evolve user revolutionary hosting services.'},
+        {iconclass:'bi bi-people', title:'Results That Speak', content:'From higher search rankings to boosted sales, we focus on performance that drives your bottom line. Every click, lead, and conversion is tracked for maximum ROI.'},
+        {iconclass:'bi bi-pie-chart', title:'Marketing Made Simple', content:'No confusing, no overcomplication — just clear strategies. We break down complex digital marketing into easy steps so you can see exactly how your business grows.'},
+        {iconclass:'bi bi-cloudy', title:'Your Success, Our Priority', content:'We treat your business like our own — your wins are our wins. We work closely alongside you every step of the way to help you achieve your business goals.'},
+        {iconclass:'bi bi-check-circle', title:'Clear Communication', content:'You’ll always know what we’re doing, why we’re doing it, and how it’s working. We take time to understand your business, goals, and audience before creating any strategy.'},
       ]; 
 
     return (
@@ -18,7 +18,7 @@ const Value1 = () => {
         </div>
         <div className="container">
             <div className="section-title text-center wow fadeInUp" data-wow-delay=".3s">
-                <h2>Our values</h2>
+                <h2>Why Clients Trust Us</h2>
             </div>
             <div className="row">
             {chooseContent.map((item, i) => (

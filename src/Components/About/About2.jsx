@@ -5,14 +5,14 @@ const About2 = ({addclass}) => {
     const aboutContent = {  
         img:'/assets/img/about/01.jpg',  
         subtitle:"About Company",
-        title:'Lets make something awesome together',
-        content:' We are not just another agency - we are your digital growth partners. With years of industry experience and a passion for innovation, our team is dedicated to delivering measurable results propel your business forward.',  
+        title:'Webzenic - Your Growth Partner in the Digital World',
+        content:'We are a UK-based digital marketing agency helping hundreds of businesses grow and succeed online. Our passion lies in transforming brands into market leaders through result-oriented strategies. In 2024 and 2025, we proudly became award-winning leaders in digital marketing, recognised for delivering measurable results and outstanding client satisfaction.',  
         icon1:'bi bi-people', 
-        title2:'Analytics Reporting', 
-        content2:'Collaboratively formulate principle capital. Progressively evolve user', 
+        title2:'SEO', 
+        content2:'Driving top search rankings and organic traffic that converts into loyal customers', 
         icon2:'bi bi-pie-chart', 
-        title3:'Data Guard Sentinel', 
-        content3:'Collaboratively formulate principle capital. Progressively evolve user', 
+        title3:'Web Development', 
+        content3:'Creating responsive, high-performance websites built to drive your business success.', 
       }  
 
     return (

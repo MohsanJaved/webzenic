@@ -51,7 +51,7 @@ const About1 = () => {
       const aboutContent = {
         bg:'/assets/img/about/about-bg.png',  
         img:'/assets/img/about/01.png',  
-        subtitle:"ABOUT COMPANY",
+        subtitle:"Webzenic - Your Growth Partner in the Digital World",
         title:'Skills to improve Your Company Brand',
         content:'It is a long established fact that a reader will be distracted the readable content of a page when looking at layout the point established fact that',  
         number1:'65%', 
