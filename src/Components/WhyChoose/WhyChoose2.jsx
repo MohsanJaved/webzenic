@@ -7,7 +7,7 @@ const WhyChoose2 = () => {
     const chooseContent = {  
         subtitle:"OUR EXPERT TEAM",
         title:'Let’s make something awesome together',
-        content:'Together, we’ll craft digital solutions that inspire, engage, and deliver results.From your vision to our execution, success is built every step of the way.',  
+        content:'Together, we’ll craft digital solutions that inspire, engage, and deliver results. From your vision to our execution, success is built every step of the way. We blend creativity with strategy to bring your brand to life online, ensuring every element works toward your business goals. Let’s turn big ideas into real-world digital success.',  
         img:'/assets/img/team/02.png',         
         list1:'30-day money-back guarantee', 
         list2:'Unlimited revision', 
