@@ -73,9 +73,7 @@ const Testimonial3 = () => {
                         {testimonialContent.map((item, i) => (                            
                             <div key={i} className="swiper-slide">
                                 <div className="testimonial-content">
-                                    <div className="icon">
-                                        <img src="/assets/img/testimonial/quote.png" alt="img" />
-                                    </div>
+                                     
                                     <p>
                                     {item.content}
                                     </p>
