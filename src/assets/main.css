@@ -7032,7 +7032,7 @@ input.main-search-input::placeholder {
 .testimonial-wrapper-3 {
   border: 1px solid var(--border);
   border-radius: 50px;
-  padding: 100px 50px;
+  padding: 40px 50px;
   position: relative;
 }
 .testimonial-wrapper-3.style-2 {
