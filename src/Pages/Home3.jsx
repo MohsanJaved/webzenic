@@ -40,8 +40,7 @@ const Home3 = () => {
 
             <Marquee3></Marquee3>
             <WhyChoose3></WhyChoose3>
-            <h2 className="display:flex; justify-content:center; pt-50">What Our Clients Says </h2>
-            <Testimonial3></Testimonial3>
+             <Testimonial3></Testimonial3>
             {/* <Counter2></Counter2> */}
             <Blog1></Blog1>
         </div>
