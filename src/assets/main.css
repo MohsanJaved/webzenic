@@ -8154,3 +8154,6 @@ input.main-search-input::placeholder {
 section.testimonial-section-3.section-padding.pt-0 {
     margin-top: 70px;
 }
+.section-title.text-center.wow.fadeInUp {
+    padding-top: 70px;
+}
