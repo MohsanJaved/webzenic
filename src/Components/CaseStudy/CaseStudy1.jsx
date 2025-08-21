@@ -78,65 +78,63 @@ const CaseStudy1 = () => {
 
                                 <div className="box wow fadeInUp">
                                     <div className="title-items">
-                                        <h3><Link to="/project/project-details">Digital Marketing</Link></h3>
+                                        <h3><Link to="#">Website Development</Link></h3>
                                         <span className="number">02</span>
                                     </div>
                                     <span className="number-hover">02</span>
                                     <div className="project-content">
-                                        <h3><Link to="/project/project-details">Digital Marketing</Link></h3>
+                                        <h3><Link to="#">Website Development</Link></h3>
                                         <p>
                                             Reprehendeirure  irit in volut
                                             ate velit esse cillum dolDuis aute irure dolor in ore
                                         </p>
-                                        <Link href="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
+                                        <Link href="#" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
                                 </div>
 
                                 <div className="box bg-1 wow fadeInUp" data-wow-delay=".2s">
                                     <div className="title-items">
-                                        <h3><Link to="/project/project-details">Instantly Analyze</Link></h3>
+                                        <h3><Link to="#">Website SEO</Link></h3>
                                         <span className="number">03</span>
                                     </div>
                                     <span className="number-hover">03</span>
                                     <div className="project-content">
-                                        <h3><Link to="/project/project-details">Instantly Analyze</Link></h3>
+                                        <h3><Link to="#">Website SEO</Link></h3>
                                         <p>
-                                            Reprehendeirure  irit in volut
-                                            ate velit esse cillum dolDuis aute irure dolor in ore
+                                           Boost your Google rankings and drive organic traffic with proven SEO.
                                         </p>
-                                        <Link to="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
+                                        <Link to="#" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
                                 </div>
 
                                 <div className="box bg-2 active wow fadeInUp wow" data-wow-delay=".4s">
                                     <div className="title-items">
-                                        <h3><Link to="/project/project-details">Web & Mobile</Link></h3>
+                                        <h3><Link to="#">Graphic Design</Link></h3>
                                         <span className="number">04</span>
                                     </div>
                                     <span className="number-hover">04</span>
                                     <div className="project-content">
-                                        <h3><Link to="/project/project-details">Web & Mobile</Link></h3>
+                                        <h3><Link to="#">Graphic Design</Link></h3>
                                         <p>
                                             Reprehendeirure  irit in volut
                                             ate velit esse cillum dolDuis aute irure dolor in ore
                                         </p>
-                                        <Link to="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
+                                        <Link to="#" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
                                 </div>
 
                                 <div className="box bg-3 wow fadeInUp wow" data-wow-delay=".6s">
                                     <div className="title-items">
-                                        <h3><Link to="/project/project-details">Email marketing</Link></h3>
+                                        <h3><Link to="#">Social Media Marketing</Link></h3>
                                         <span className="number">05</span>
                                     </div>
                                     <span className="number-hover">05</span>
                                     <div className="project-content">
-                                        <h3><Link to="/project/project-details">Email marketing</Link></h3>
+                                        <h3><Link to="#">Social Media Marketing</Link></h3>
                                         <p>
-                                            Reprehendeirure  irit in volut
-                                            ate velit esse cillum dolDuis aute irure dolor in ore
+                                           Grow your brand, reach more people, and engage customers online.
                                         </p>
-                                        <Link to="/project/project-details" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
+                                        <Link to="#" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
                                 </div>
 
