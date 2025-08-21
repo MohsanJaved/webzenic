@@ -78,12 +78,12 @@ const CaseStudy1 = () => {
 
                                 <div className="box wow fadeInUp">
                                     <div className="title-items">
-                                        <h3><Link to="#">Website Development</Link></h3>
+                                        <h3><Link to="#">Web Development</Link></h3>
                                         <span className="number">02</span>
                                     </div>
                                     <span className="number-hover">02</span>
                                     <div className="project-content">
-                                        <h3><Link to="#">Website Development</Link></h3>
+                                        <h3><Link to="#">Web Development</Link></h3>
                                         <p>
                                             Reprehendeirure  irit in volut
                                             ate velit esse cillum dolDuis aute irure dolor in ore
@@ -125,12 +125,12 @@ const CaseStudy1 = () => {
 
                                 <div className="box bg-3 wow fadeInUp wow" data-wow-delay=".6s">
                                     <div className="title-items">
-                                        <h3><Link to="#">Social Media Marketing</Link></h3>
+                                        <h3><Link to="#">Social Media</Link></h3>
                                         <span className="number">05</span>
                                     </div>
                                     <span className="number-hover">05</span>
                                     <div className="project-content">
-                                        <h3><Link to="#">Social Media Marketing</Link></h3>
+                                        <h3><Link to="#">Social Media </Link></h3>
                                         <p>
                                            Grow your brand, reach more people, and engage customers online.
                                         </p>
