@@ -11,6 +11,7 @@ const Services3 = () => {
 {img:'/assets/img/service/icon-5.png', title:'Graphic Design', content:'Create stunning visuals and brand assets that enhance your business identity.'},
 {img:'/assets/img/service/icon-6.png', title:'Social Media Management', content:'Manage and grow your social media presence with engaging content and strategies.'},
 
+
  
 ]
 
