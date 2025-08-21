@@ -116,8 +116,7 @@ const CaseStudy1 = () => {
                                     <div className="project-content">
                                         <h3><Link to="#">Graphic Design</Link></h3>
                                         <p>
-                                            Reprehendeirure  irit in volut
-                                            ate velit esse cillum dolDuis aute irure dolor in ore
+                                       Capture attention with unique, creative, and professional graphics.
                                         </p>
                                         <Link to="#" className="link-btn">Read More <i className="bi bi-arrow-right"></i></Link>
                                     </div>
