@@ -4,36 +4,14 @@ const Services3 = () => {
 
     const chooseContent = [
        [
-  {
-    img: '/assets/img/service/icon-1.png',
-    title: 'WordPress Website Development',
-    content: 'Design and develop responsive WordPress websites tailored to your business goals.',
-  },
-  {
-    img: '/assets/img/service/icon-2.png',
-    title: 'SEO Optimization',
-    content: 'Improve your website’s visibility on search engines to drive organic traffic and growth.',
-  },
-  {
-    img: '/assets/img/service/icon-3.png',
-    title: 'Shopify Website Development',
-    content: 'Build and optimize scalable Shopify stores with custom design and performance in mind.',
-  },
-  {
-    img: '/assets/img/service/icon-4.png',
-    title: 'Custom Website Development',
-    content: 'Develop bespoke websites with unique functionality tailored to specific business needs.',
-  },
-  {
-    img: '/assets/img/service/icon-5.png',
-    title: 'Graphic Design',
-    content: 'Create stunning visuals and brand assets that enhance your business identity.',
-  },
-  {
-    img: '/assets/img/service/icon-6.png',
-    title: 'Social Media Management',
-    content: 'Manage and grow your social media presence with engaging content and strategies.',
-  }
+  {img:'/assets/img/service/icon-1.png', title:'WordPress Website Development', content:'Design and develop responsive WordPress websites tailored to your business goals.'},
+{img:'/assets/img/service/icon-2.png', title:'SEO Optimization', content:'Improve your website’s visibility on search engines to drive organic traffic and growth.'},
+{img:'/assets/img/service/icon-3.png', title:'Shopify Website Development', content:'Build and optimize scalable Shopify stores with custom design and performance in mind.'},
+{img:'/assets/img/service/icon-4.png', title:'Custom Website Development', content:'Develop bespoke websites with unique functionality tailored to specific business needs.'},
+{img:'/assets/img/service/icon-5.png', title:'Graphic Design', content:'Create stunning visuals and brand assets that enhance your business identity.'},
+{img:'/assets/img/service/icon-6.png', title:'Social Media Management', content:'Manage and grow your social media presence with engaging content and strategies.'},
+
+ 
 ]
 
       ]; 
