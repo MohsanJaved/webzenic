@@ -65,47 +65,47 @@ export default function Nav({ setMobileToggle }) {
                 Email Marketing
               </Link>
             </li>
-             {/* <li>
+             <li>
               <Link to="/service/ppc" onClick={() => setMobileToggle(false)}>
                 PPC
               </Link>
-            </li> */}
-             {/* <li>
+            </li>
+             <li>
               <Link to="/service/website-development" onClick={() => setMobileToggle(false)}>
                 Website Development
               </Link>
-            </li> */}
+            </li>
           
-             {/* <li>
+             <li>
               <Link to="/service/seo" onClick={() => setMobileToggle(false)}>
                 SEO
               </Link>
-            </li> */}
-             {/* <li>
+            </li>
+             <li>
               <Link to="/service/wordpress-website-development" onClick={() => setMobileToggle(false)}>
                 Wordpress Website Development
               </Link>
-            </li> */}
-             {/* <li>
+            </li>
+             <li>
               <Link to="/service/shopify-store-development" onClick={() => setMobileToggle(false)}>
                 Shopify Store Development
               </Link>
-            </li> */}
-              {/* <li>
+            </li>
+              <li>
               <Link to="/service/landing-page-development" onClick={() => setMobileToggle(false)}>
                 Landing page Development
               </Link>
-            </li> */}
-              {/* <li>
+            </li>
+              <li>
               <Link to="/service/social-media-marketing" onClick={() => setMobileToggle(false)}>
                 Social Media Marketing
               </Link>
-            </li> */}
-              {/* <li>
+            </li>
+              <li>
               <Link to="/service/google-my-business-optimization" onClick={() => setMobileToggle(false)}>
                 Google My Business Optimization
               </Link>
-            </li> */}
+            </li>
           </ul>
         </DropDown>
       </li>
