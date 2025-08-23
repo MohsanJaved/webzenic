@@ -39,16 +39,73 @@ export default function Nav({ setMobileToggle }) {
         </Link>
         <DropDown>
           <ul>
+          
             <li>
-              <Link to="/service" onClick={() => setMobileToggle(false)}>
-                Services
+              <Link to="/service/website-development" onClick={() => setMobileToggle(false)}>
+                Website Development
               </Link>
             </li>
-            <li>
-              <Link to="/service/service-details" onClick={() => setMobileToggle(false)}>
-                Service Details
+             <li>
+              <Link to="/service/content-marketing" onClick={() => setMobileToggle(false)}>
+                Content Marketing
               </Link>
             </li>
+             <li>
+              <Link to="/service/graphic-design" onClick={() => setMobileToggle(false)}>
+                Graphic Design
+              </Link>
+            </li>
+             <li>
+              <Link to="/service/video-marketing-production" onClick={() => setMobileToggle(false)}>
+                Video Marketing & Production
+              </Link>
+            </li>
+             <li>
+              <Link to="/service/email-marketing" onClick={() => setMobileToggle(false)}>
+                Email Marketing
+              </Link>
+            </li>
+             {/* <li>
+              <Link to="/service/ppc" onClick={() => setMobileToggle(false)}>
+                PPC
+              </Link>
+            </li> */}
+             {/* <li>
+              <Link to="/service/website-development" onClick={() => setMobileToggle(false)}>
+                Website Development
+              </Link>
+            </li> */}
+          
+             {/* <li>
+              <Link to="/service/seo" onClick={() => setMobileToggle(false)}>
+                SEO
+              </Link>
+            </li> */}
+             {/* <li>
+              <Link to="/service/wordpress-website-development" onClick={() => setMobileToggle(false)}>
+                Wordpress Website Development
+              </Link>
+            </li> */}
+             {/* <li>
+              <Link to="/service/shopify-store-development" onClick={() => setMobileToggle(false)}>
+                Shopify Store Development
+              </Link>
+            </li> */}
+              {/* <li>
+              <Link to="/service/landing-page-development" onClick={() => setMobileToggle(false)}>
+                Landing page Development
+              </Link>
+            </li> */}
+              {/* <li>
+              <Link to="/service/social-media-marketing" onClick={() => setMobileToggle(false)}>
+                Social Media Marketing
+              </Link>
+            </li> */}
+              {/* <li>
+              <Link to="/service/google-my-business-optimization" onClick={() => setMobileToggle(false)}>
+                Google My Business Optimization
+              </Link>
+            </li> */}
           </ul>
         </DropDown>
       </li>

@@ -13,7 +13,42 @@ import TeamDetailsPage from "../Pages/TeamDetailsPage";
 import FaqPage from "../Pages/FaqPage";
 import ContactPage from "../Pages/ContactPage";
 import ServicesPage from "../Pages/ServicesPage";
-import ServiceDetailsPage from "../Pages/ServiceDetailsPage";
+import WebsiteDevelopment from "../Pages/WebsiteDevelopment";
+import ContentMarketing from "../Pages/ContentMarketing";
+ import GraphicDesignMarketing from "../Pages/GraphicDesignMarketing";
+ import EmailMarketing from "../Pages/EmailMarketing";
+ import PPC from "../Pages/PPC";
+ import SEO from "../Pages/SEO";
+ import ShopifyStoreDevelopment from "../Pages/ShopifyStoreDevelopment";
+ import GoogleMyBusinessOptimization from "../Pages/GoogleMyBusinessOptimization";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import CaseStudyPage from "../Pages/CaseStudyPage";
 import CaseStudyDetailsPage from "../Pages/CaseStudyDetailsPage";
 import BlogRightSidebar from "../Pages/BlogRightSidebar";
@@ -54,9 +89,76 @@ export const router = createBrowserRouter([
         element: <ServicesPage></ServicesPage>,
       },
       {
-        path: "/service/service-details",
-        element: <ServiceDetailsPage></ServiceDetailsPage>,
+        path: "/service/website-development",
+        element: <WebsiteDevelopment></WebsiteDevelopment>,
       },
+
+ {
+        path: "/service/Content-Marketing",
+        element: <ContentMarketing></ContentMarketing>,
+      },
+
+ {
+        path: "/service/Graphic-Design",
+        element: <GraphicDesignMarketing></GraphicDesignMarketing>,
+      },
+
+
+ {
+        path: "/service/Email-Marketing",
+        element: <EmailMarketing></EmailMarketing>,
+      },
+
+ {
+        path: "/service/Google-My-Business-Optimization",
+        element: <GoogleMyBusinessOptimization></GoogleMyBusinessOptimization>,
+      },
+
+//  {
+//         path: "/service/Landing-Page-Development",
+//         element: <LandingPageDevelopment></LandingPageDevelopment>,
+//       },
+
+
+//  {
+//         path: "/service/PPC",
+//         element: <PPC></PPC>,
+//       },
+
+//  {
+//         path: "/service/SEO",
+//         element: <SEO></SEO>,
+//       },
+
+
+//  {
+//         path: "/service/ShopifyStoreDevelopment",
+//         element: <ShopifyStoreDevelopment></ShopifyStoreDevelopment>,
+//       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       {
         path: "/project",
         element: <CaseStudyPage></CaseStudyPage>,
