@@ -34,8 +34,8 @@ const Testimonial3 = () => {
       };  
 
     const testimonialContent = [
-        {img:'/assets/img/testimonial/05.png', subtitle:'Trader, USA', title:'Esther Howard', content:' Lorem ipsum dolor sit amet consectetur adipiscing elit. Mauris nullam the as integer quam dolor nunc semper.  faucibus pulvinar neque. The as Suscipit tristique mauris consectetur platea.'},
-        {img:'/assets/img/testimonial/05.png', subtitle:'Trader, USA', title:'Esther Howard', content:' Lorem ipsum dolor sit amet consectetur adipiscing elit. Mauris nullam the as integer quam dolor nunc semper.  faucibus pulvinar neque. The as Suscipit tristique mauris consectetur platea.'},
+        {img:'/assets/img/testimonial/05.png', subtitle:'CEO, USA', title:'Michael Davis', content:' Working with this team was a great experience. They really listened to what we needed and helped us build a digital presence that works. We’ve seen more traffic and better engagement. Highly recommend them!'},
+        {img:'/assets/img/testimonial/05.png', subtitle:'Marketing Director, USA', title:'Ryan', content:' I’ve worked with many digital agencies, but [Your Company Name] stands out for their creativity and attention to detail. They helped us create a digital strategy that truly resonated with our target audience. Thanks to their hard work, we’ve seen impressive growth in our online traffic and sales.'},
       ]; 
 
     return (
@@ -73,9 +73,7 @@ const Testimonial3 = () => {
                         {testimonialContent.map((item, i) => (                            
                             <div key={i} className="swiper-slide">
                                 <div className="testimonial-content">
-                                    <div className="icon">
-                                        <img src="/assets/img/testimonial/quote.png" alt="img" />
-                                    </div>
+                                     
                                     <p>
                                     {item.content}
                                     </p>

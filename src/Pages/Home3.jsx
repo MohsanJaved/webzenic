@@ -34,14 +34,14 @@ const Home3 = () => {
            
 
             <CaseStudy3></CaseStudy3>
-             <Marquee1></Marquee1>
+             {/* <Marquee1></Marquee1> */}
             {/* <Team1></Team1> */}
                         <About2 addclass="about-section-2 fix section-padding pt-150"></About2>
 
             <Marquee3></Marquee3>
             <WhyChoose3></WhyChoose3>
-            <Testimonial3></Testimonial3>
-            <Counter2></Counter2>
+             <Testimonial3></Testimonial3>
+            {/* <Counter2></Counter2> */}
             <Blog1></Blog1>
         </div>
     );

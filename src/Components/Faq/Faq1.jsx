@@ -1,12 +1,12 @@
-import { useEffect, useRef, useState } from "react";
+ import { useEffect, useRef, useState } from "react";
 
 const Faq1 = ({addclass}) => {
 
     const faqContent = [
-        {title:'Why Is SEO Important For Small Business?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio.Mauris et mollis quam. Nullam fringilla erat id ante commodo maximus'},
-        {title:'How do I choose the best SEO Agency?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio.Mauris et mollis quam. Nullam fringilla erat id ante commodo maximus'},
-        {title:'Better Security And Faster Server?', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio.Mauris et mollis quam. Nullam fringilla erat id ante commodo maximus'},
-        {title:'Deployment Within Few Minutes', content:'Nullam faucibus eleifend mi eu varius. Integer vel tincidunt massa, quis semper odio.Mauris et mollis quam. Nullam fringilla erat id ante commodo maximus'},
+        {title:' Why should I choose you over other agencies?', content:'Because we deliver measurable results—like 200% more traffic or 40% lower ad costs—with transparent reporting, custom strategies, and a dedicated team. No empty promises. Let’s prove it with a free 30-minute audit.'},
+        {title:' What is the starting price of your services?', content:'Our services start at just £99. This allows you to test our work, and once you’re satisfied with the results, we can build a long-term partnership.'},
+        {title:' What makes your agency different from others?', content:'We focus on ROI-driven strategies, not vanity metrics. For example, we helped Chandler Cosmetic increase revenue by 150% in 6 months through targeted campaigns. Additionally, you,ll have a dedicated account manager - not a junior team.'},
+        {title:' Who will actually work on my account?', content:' You,ll have a senior strategist leading your account, supported by our in-house experts in SEO, PPC, and design.'},
       ]; 
 
       const accordionContentRef = useRef(null);

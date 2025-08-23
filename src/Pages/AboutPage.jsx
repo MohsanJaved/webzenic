@@ -14,8 +14,7 @@ const AboutPage = () => {
                 Title="about us"
             ></BreadCumb>
             <About2 addclass="about-section-2 fix section-padding"></About2>
-            <Counter3></Counter3>
-            <Value1></Value1>
+             <Value1></Value1>
             <Team2></Team2>
             <Testimonial3></Testimonial3>
         </div>
