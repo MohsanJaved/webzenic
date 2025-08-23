@@ -20,7 +20,7 @@ import ContentMarketing from "../Pages/ContentMarketing";
  import PPC from "../Pages/PPC";
  import SEO from "../Pages/SEO";
  import ShopifyStoreDevelopment from "../Pages/ShopifyStoreDevelopment";
- import GoogleMyBusinessOptimization from "../Pages/GoogleMyBusinessOptimization";
+//  import GoogleMyBusinessOptimization from "../Pages/GoogleMyBussinessOptimization";
 
 
 
@@ -109,10 +109,10 @@ export const router = createBrowserRouter([
         element: <EmailMarketing></EmailMarketing>,
       },
 
- {
-        path: "/service/Google-My-Business-Optimization",
-        element: <GoogleMyBusinessOptimization></GoogleMyBusinessOptimization>,
-      },
+//  {
+//         path: "/service/Google-My-Business-Optimization",
+//         element: <GoogleMyBusinessOptimization></GoogleMyBusinessOptimization>,
+//       },
 
 //  {
 //         path: "/service/Landing-Page-Development",
